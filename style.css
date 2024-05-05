@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f2f2f2;
+    font-family: "Helvetica", sans-serif;
+  }
+  .container {
+    width: 600px;
+    height: 700px;
+    background-color: rgb(209, 206, 206);
+    border: 3px groove;
+    margin: auto;
+  }
+  h1{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  p{
+    padding-bottom: 20px;
+  }
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 20px 0;
+    width: 100%;
+  }
+  label{
+    padding: 10px;
+}
+#calcbutton{
+    margin-top: 25px;
+}
+#totalTxt{
+    margin-top: 15px;
+}
